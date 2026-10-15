@@ -45,6 +45,7 @@ public class SnakeGame extends JFrame {
             } catch (Exception ignored) { }
             new SnakeGame().setVisible(true);
         });
+		System.out.println("Hi");
 
 	}
 
